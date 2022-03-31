@@ -5,4 +5,3 @@ One year ago, I started learning the python programming language more seriously.
 
 Always looking for challenges and opportunities with server programming.
 
-
